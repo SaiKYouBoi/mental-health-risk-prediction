@@ -1,0 +1,11 @@
+Feature,IQR_lower,IQR_upper,Flagged_count,Flagged_min,Flagged_max
+Age,15.5,27.5,2,28.0,28.0
+Year_of_Study,-3.5,8.5,0,,
+Sleep_Hours,3.75,9.75,9,3.6,10.0
+Study_Hours_Per_Week,4.0,36.0,7,2.4,38.3
+GPA,1.5999999999999999,3.5199999999999996,5,1.5,3.66
+Social_Media_Hours,3.05,9.05,10,2.1,10.0
+Screen_Time_Hours,3.950000000000002,13.149999999999999,7,3.3,14.0
+Financial_Stress,0.14999999999999947,11.75,0,,
+Family_Support,1.0000000000000009,12.2,0,,
+Attendance_Rate,65.35000000000002,104.94999999999999,10,54.4,65.3

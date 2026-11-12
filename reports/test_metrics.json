@@ -1,0 +1,7 @@
+{
+  "Accuracy": 0.755,
+  "Weighted precision": 0.7555258723147606,
+  "Weighted recall": 0.755,
+  "Weighted F1": 0.7552097285608678,
+  "Weighted ROC-AUC": 0.9144999434644957
+}

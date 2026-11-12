@@ -1,0 +1,41 @@
+{
+  "model": "Logistic Regression",
+  "best_parameters": {
+    "model__C": 10
+  },
+  "cv_weighted_f1": 0.75189461650134,
+  "feature_columns": [
+    "Age",
+    "Gender",
+    "Year_of_Study",
+    "Sleep_Hours",
+    "Study_Hours_Per_Week",
+    "GPA",
+    "Social_Media_Hours",
+    "Screen_Time_Hours",
+    "Physical_Activity",
+    "Financial_Stress",
+    "Family_Support",
+    "Attendance_Rate",
+    "Part_Time_Job",
+    "Diet_Quality",
+    "Previous_Mental_Health_History"
+  ],
+  "classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "sklearn_version": "1.9.1",
+  "pandas_version": "3.1.0",
+  "numpy_version": "2.4.6",
+  "joblib_version": "1.6.0",
+  "split_random_state": 42,
+  "test_metrics": {
+    "Accuracy": 0.755,
+    "Weighted precision": 0.7555258723147606,
+    "Weighted recall": 0.755,
+    "Weighted F1": 0.7552097285608678,
+    "Weighted ROC-AUC": 0.9144999434644957
+  }
+}

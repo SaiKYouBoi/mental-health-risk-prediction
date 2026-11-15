@@ -1,0 +1,13 @@
+.git
+.agents
+.codex
+.aws
+.env
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+notebooks
+data
+models
+reports
